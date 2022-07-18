@@ -33,4 +33,4 @@ Source: https://learncryptography.com/mathematics/prime-factorization
 
 ## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/Dovineowuor/) | [Twitter](https://twitter.com/Dove-owuor) | [GitHub](https://github.com/Dovineowuor)
+[Dovine Owuor](https://www.linkedin.com/in/Dovineowuor/) | [Twitter](https://twitter.com/Dove-owuor) | [GitHub](https://github.com/Dovineowuor)
